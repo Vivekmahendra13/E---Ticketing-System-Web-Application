@@ -1,0 +1,82 @@
+.info{
+    color: white;
+    top:10%
+    
+}
+.event1 {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    background: #f9f9f9;
+    background-image: url(./css/concert.png);
+    background-size: 100% 100%;
+    max-height: 50%;
+    width:50%;
+
+}
+.event2{
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    background: #f9f9f9;
+    background-image: url(./css/theator.png);
+    background-size: 75% 75%;
+    width:50%;
+}
+.event3{
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    background: #f9f9f9;
+    background-image: url(./css/music\ fest.png);
+    background-size: 100% 100%;
+    width:50%;
+}
+.event4{
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    background: #f9f9f9;
+    background-image: url(./css/stand\ up.png);
+    background-size: 100% 100%;
+    width:50%;
+}
+.event5{
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    background: #f9f9f9;
+    background-image: url(./css/tech.png);
+    background-size: 100% 100%;
+    width:50%;
+}
+
+
+.paymentmodes{
+    color:white;
+    background-color: rgb(129, 218, 99);
+}
+label {
+    display: block;
+    margin: 5px 0 5px;
+}
+
+input {
+    width: 25%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+#booking-form {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    display: inline-block;
+    background: #fff;
+}
